@@ -1,2 +1,2 @@
-# moebius_solver
-Moebius Solver: a Python implementation of algebraic formula solving.
+# Moebius Solver
+A Python implementation of algebraic formula solving.
